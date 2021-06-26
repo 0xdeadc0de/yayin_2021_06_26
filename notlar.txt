@@ -1,0 +1,4 @@
+"terminal.integrated.shellArgs.windows": ["-ExecutionPolicy", "Bypass"]
+
+onemli soru isareti seysi:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining
